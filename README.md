@@ -1,7 +1,4 @@
-﻿# DayLine-Task-Manager
-# DayLine-Task-Manager
-# DayLine-Task-Manager
-# DayLine Task Manager 📝
+
 
 A full-stack MERN (MongoDB, Express.js, React, Node.js) task management application designed to help you organize and track your daily tasks efficiently.
 
@@ -28,4 +25,5 @@ A full-stack MERN (MongoDB, Express.js, React, Node.js) task management applicat
 - **Mongoose** - ODM for MongoDB
 
 ## 📁 Project Structure
+
 
